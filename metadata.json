@@ -1,0 +1,6 @@
+{
+  "name": "TPRMセキュアチェックシート",
+  "description": "第三者リスク管理(TPRM)のセキュリティチェックシート管理ツールのプロトタイプ。委託先(A社)と委託元(Z社)の視点を切り替え、チェック状況や証跡を同一画面上でシミュレートできます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
